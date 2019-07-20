@@ -12,7 +12,7 @@ yarn install react-native-web
 ```
 
 ```
-import Svgson from 'react-native-svgson';
+import { Svgson } from 'react-native-svgson';
 import exampleSvgJson from './exampleSvg.json';
 ```
 
