@@ -1,7 +1,7 @@
 {
   "name": "react-native-svgson",
   "description": "This package glues together the wonderful react-native-svg and svgson.",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "dependencies": {},
   "scripts": {
     "start": "react-scripts start",
