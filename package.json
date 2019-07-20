@@ -1,7 +1,7 @@
 {
   "name": "react-native-svgson",
   "description": "This package glues together the wonderful react-native-svg and svgson.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "dependencies": {},
   "scripts": {
     "start": "react-scripts start",
@@ -35,8 +35,8 @@
     ]
   },
   "peerDependencies": {
-    "react-native-svg": "^9.5.3",
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.15",
+    "react-native-svg": "^9.5.3"
   },
   "devDependencies": {
     "@babel/cli": "^7.5.5",
