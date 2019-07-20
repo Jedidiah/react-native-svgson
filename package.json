@@ -20,7 +20,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "URL_OF_YOUR_REPOSITORY"
+    "url": "https://github.com/Jedidiah/react-native-svgson"
   },
   "browserslist": {
     "production": [
