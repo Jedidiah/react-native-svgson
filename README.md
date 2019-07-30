@@ -7,7 +7,7 @@ This package glues together the wonderful [react-native-svg](https://github.com/
 ```
 yarn install react-native-svgson react-native-svg lodash
 
-// If you are using this on the web you also need react-native-web
+# If you are using this on the web you also need react-native-web
 yarn install react-native-web
 ```
 
